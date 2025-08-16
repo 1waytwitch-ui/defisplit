@@ -93,4 +93,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("🛠️ *Application créée avec Streamlit pour suivre votre portefeuille crypto et DeFi. Ajoutez des catégories comme LP, staking, REALT, etc.*")
+st.markdown("🛠️ *Application créée par 1way pour suivre votre portefeuille crypto et DeFi. Ajoutez des catégories comme LP, staking, REALT, etc.*")
