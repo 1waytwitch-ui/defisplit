@@ -79,4 +79,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("🛠️ *Développé avec Streamlit — ajoutez vos actifs comme REALT, staking, etc. pour suivre votre portefeuille complet.*")
+st.markdown("🛠️ *Développé par 1way — ajoutez vos actifs comme REALT, staking, etc. pour suivre votre portefeuille complet.*")
